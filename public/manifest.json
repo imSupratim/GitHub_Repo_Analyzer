@@ -1,0 +1,28 @@
+{
+  "name": "GitHub Repository Analyzer",
+  "short_name": "GH Analyzer",
+  "description": "AI-powered dashboard that analyzes any public GitHub repository.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "screenshots": [
+  {
+    "src": "/images/desktop_screenshot.png",
+    "sizes": "1280x800",
+    "type": "image/png",
+    "form_factor": "wide"
+  },
+  {
+    "src": "/images/mobile_screenshot.png",
+    "sizes": "540x721",
+    "type": "image/png",
+    "form_factor":"narrow"
+}
+]
+}
