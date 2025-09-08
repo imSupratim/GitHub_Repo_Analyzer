@@ -88,7 +88,7 @@ repo-analyser/
 ## Setup Instructions
 
 1.Clone the repo
-    git clone https://github.com/your-username/repo-analyser
+    git clone https://github.com/imSupratim/GitHub_Repo_Analyzer
     cd repo-analyser
 
 2.Install dependencies
