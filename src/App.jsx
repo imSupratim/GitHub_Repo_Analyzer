@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import AiInsights from "./components/Aiinsights";
+import AiInsights from "./components/AiInsights";
 import LanguagesChart from "./components/LanguagesChart";
 import CommitsChart from "./components/CommitsChart";
 import ContributorsChart from "./components/ContributorsChart";
